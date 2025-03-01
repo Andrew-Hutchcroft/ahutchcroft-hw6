@@ -2,3 +2,10 @@ body {
   background: #f5f5fa;
   color: #1f1f29;
 }
+
+.container {
+  width: 85%;
+  margin: auto;
+  background-color: white;
+  border: 1px solid black;
+}
